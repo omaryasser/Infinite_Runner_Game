@@ -1,6 +1,6 @@
 WindowsStandalone
 PlayerPath?
-C:/Users/Yasser/Documents/Mini_Project/Build2/Mini_Project.exe
+C:/Users/Yasser/Documents/Mini_Project/Infinite_Runner_Game/Windows, Max, Linux Build/Mini_Project.exe
 SceneListBegin?
 Assets/Scenes/Menu.unity
 Assets/Scenes/Game.unity
