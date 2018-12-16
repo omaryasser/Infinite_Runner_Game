@@ -4,7 +4,7 @@
 </div>
 
 ## Overview
-An infinite runner game in which the player will try to maximize his score by gathering collectibles of only his ball's color. The color of the player ball changes after passing through color changers. As the score of the player increases the speed increases as well.
+An infinite runner game in which the player tries to maximize his score by gathering collectibles of only his ball's color. The color of the player ball changes after passing through color changers. As the score of the player increases the speed increases as well.
 
 ### Built With:
 - [**Unity**](https://unity3d.com/): Unity is a cross-platform game engine developed by Unity Technologies
