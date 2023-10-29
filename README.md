@@ -10,4 +10,4 @@ An infinite runner game in which the player tries to maximize his score by gathe
 - [**Unity**](https://unity3d.com/): A cross-platform game engine developed by Unity Technologies.
 
 ### Running the game:
-One can run the game on Windows, Max, Linux & Android operating systems. The builds are included in the corresponding folders.
+One can run the game on Windows, Mac, Linux & Android operating systems. The builds are included in the corresponding folders.
